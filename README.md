@@ -36,7 +36,7 @@
 
 ### 2. 书籍学习
 
-
+1. [【Head First Java(第2版)中文版】](../Java Basics/Images/Head First Java(第2版)中文版.pdf)
 
 
 
